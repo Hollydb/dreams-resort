@@ -1,0 +1,36 @@
+h1{
+  color: 	#cdf1ff;
+  font-family: sans-serif;
+  font-size: 70px;
+  text-align: center;
+
+}
+
+h2{
+  color:	#ffffff;
+}
+
+h3{
+  font-family: cursive;
+  color: #2fbac5;
+}
+
+img{
+  border: 10px solid #2fbac5;
+}
+
+body{
+  background-color: #042d4b;
+  color:#cdf1ff;
+}
+ul{
+  line-height: 50px;
+  border: 10px dashed #ffffff;
+}
+
+a{
+  color: #73e2e5;
+}
+p{
+  font-size: 20px;
+}
