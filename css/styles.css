@@ -1,0 +1,50 @@
+h1 {
+  font-family: fantasy;
+  Line-height: 10px;
+}
+
+
+h2 {
+  line-height: 10px;
+  color: magenta;
+  font-family: cursive;
+}
+
+h3 {
+  color: darkred;
+}
+
+ul {
+  list-style: none;
+  background-color: magenta;
+  text-align: center;
+  padding: 15px;
+  border: 20px solid purple;
+  margin: 10px;
+}
+
+li {
+  font-family: sans-serif;
+  line-height: 30px;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+  border: 15px solid crimson;
+  padding: 10px;
+  margin: 20px;
+}
+
+body {
+  background-color: #F08080
+}
+
+p {
+  text-align: center;
+  font-family: fantasy;
+  border: 15px solid crimson;
+  padding: 10px;
+  margin: 20px;
+  width: 300px;
+}
